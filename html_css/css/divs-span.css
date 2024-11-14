@@ -1,0 +1,32 @@
+h1{
+    color: blue;
+}
+/* div{
+    height: 500px;
+    width: 500px;
+    background-color: tomato;
+} */
+.box1{
+    background-color: tomato;
+    margin: 100px;
+    border: 2px black solid;
+    padding: 100px;
+}
+.box2{
+    background-image: url(../image/hamster.webp);
+    margin: 100px;
+    border: 2px black solid;
+    padding: 100px;
+    background-repeat: none;
+    background-size: cover;
+}
+.box3{
+    background-image: url(../image/restaurant.png);
+    margin : 100px 0;
+    padding: 50px 20px;
+    border-left: 5px green solid;
+
+}
+.highlights{
+    color: white;
+}
