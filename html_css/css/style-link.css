@@ -1,0 +1,53 @@
+body{
+    background-image: url(../image/restaurant.png);
+}
+h1{
+    color: rgb(111, 0, 0);
+    margin-bottom: 0;
+}
+h2{
+    color: rgb(7, 107, 0);
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+p{
+    line-height: 1.4;
+    margin-bottom: 40px;
+    color: firebrick;
+}
+.text{
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 1.9;
+    text-align: left;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+/* please maintain the order because its important */
+/* sudo class : visited ,hover , active */
+/* use a:hover , a:focus insteade only a:hover  */
+
+a{
+    color: black;
+}
+/* a:visited{
+    color: blue;
+} */
+a:hover , a:focus{
+    color:yellow;
+}
+/* a:active{
+    color: pink;
+} */
+.body-text p {
+    background-color: #3283a8;
+    padding: 50px;
+    color: white;
+}
+
+.important-link {
+    color: blue;
+}
+.body-text a{
+    color: palevioletred;
+}
+
