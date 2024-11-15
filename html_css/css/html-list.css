@@ -1,0 +1,33 @@
+h1{
+    color: blue;
+    margin-bottom: 0;
+}
+h2{
+    color: #565b5d;
+    margin-top: 0;
+}
+p{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+ol{
+    background-color: plum;
+    padding: 50px;
+   
+}
+ul{
+    background-color: lightblue;
+    list-style-image: url(../image/icons8-image-16.png);
+    padding: 50px;
+}
+ol li{
+    background-color: white;
+    margin: 5px;
+}
+ul li{
+    /* background-color: rgb(242, 127, 127); */
+    margin: 5px;
+    text-align: center;
+    list-style-position: inside;
+    list-style-type: lower-alpha;
+}
